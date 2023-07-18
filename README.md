@@ -1,6 +1,6 @@
 # qb-lock
 This adds a lockpick UI to your game.
 
-#Install
+# Install
 
 Just drag and drop into qb resources folder
