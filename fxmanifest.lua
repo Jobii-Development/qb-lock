@@ -1,8 +1,8 @@
 fx_version 'bodacious'
 games { 'gta5' }
 
-author 'Leastjuh'
-description 'Lockpick Circle Mini-Game'
+author 'Jobii'
+description 'Lockpick Circle'
 version '1.0'
 
 client_scripts {
